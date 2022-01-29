@@ -84,4 +84,5 @@ func main() {
 	c := signal(isprisnorsleep, isarchersleep)
 	d := freeprisnor(ishasdog, isarchersleep, isprisnorsleep, isknightsleep)
 	fmt.Println("the result is :", a, b, c, d) */
+	//aditi is cool
 }
